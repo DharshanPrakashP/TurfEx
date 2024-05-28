@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "687740074393",
+    "firebase_url": "https://turfx-c0cff-default-rtdb.firebaseio.com",
+    "project_id": "turfx-c0cff",
+    "storage_bucket": "turfx-c0cff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687740074393:android:c458a5621bbd08cec5bb08",
+        "android_client_info": {
+          "package_name": "com.example.turfx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687740074393-eetl0jrhf816o7s36nulo4l1o77v7kaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA92EVZ7atlEJRGm58yJvJFHjHPs6X8rf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687740074393-eetl0jrhf816o7s36nulo4l1o77v7kaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
